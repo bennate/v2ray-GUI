@@ -70,7 +70,9 @@ wget -N --no-check-certificate https://github.com/teddysun/across/raw/master/bbr
 
 Now head over to the `apps` directory for instructions on how to connect.
 </br></br>
-Just in case you want to support me, I'd realy appriciate it.</br>
+Just in case you want to support me, I'd realy appriciate it.</br></br>
+
 TRC20 `TT2AMeebAUGFcG9jLPA49xN1eMCyDekz6c` </br>
+
 ERC20 `0x9A6471A8d01A66e81433d97aF3e1288f7C2E6a7b`
 
