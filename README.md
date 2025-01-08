@@ -1,15 +1,14 @@
 # v2ray Server with Interface
 
 For this you need two servers, one in Iran and the other outside of Iran.</br>
-you can google it or using websites like [Sindad](https://sindad.com/), [ParsPack](https://parspack.com/), [ParsVDS](https://parsvds.com/virtual-server/iran-ssd/) or any other services you like, just make sure that your VPS is located in <strong>America</strong></br>
+you can google it or using websites like [Sindad](https://sindad.com/), [WebRamz](https://www.webramz.com/) or any other services you like, just make sure that your VPS is located in <strong>America</strong></br>
 Note: You don't need anything fancy, even the most basic and simple plans of the VPS's will do the magic.
 <hr>
 </br>
 Your server inside Iran will act as a router. It's only job is to route traffic from within the country to the main server (non-IR) which hosts the actual V2ray Server. </br>
 All commands are base on debian-based linux distros. e.g. Ubuntu.</br></br>
 Share it with your loved ones</br></br>
-<bold>#MahsaAmini</bold></br>
-<bold>#womanlifefreedom</bold></br></br>
+</br></br>
 Let's get started.</br></br>
 
 ## on Your non-IR Server</br>
